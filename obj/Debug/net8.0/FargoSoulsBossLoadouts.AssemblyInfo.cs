@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FargoSoulsBossLoadouts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+705ba3703416f3a6110c47b88c5e410a1b19cc63")]
 [assembly: System.Reflection.AssemblyProductAttribute("FargoSoulsBossLoadouts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FargoSoulsBossLoadouts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
