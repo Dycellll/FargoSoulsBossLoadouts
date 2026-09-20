@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|c:\\users\\fale4\\documents\\my games\\terraria\\tmodloader\\modsources\\fargosoulsbossloadouts\\fargosoulsbossloadouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|solutionrelative:fargosoulsbossloadouts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|c:\\users\\fale4\\documents\\my games\\terraria\\tmodloader\\modsources\\fargosoulsbossloadouts\\content\\fargobuffprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|solutionrelative:content\\fargobuffprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|c:\\users\\fale4\\documents\\my games\\terraria\\tmodloader\\modsources\\fargosoulsbossloadouts\\content\\fargobossprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF041EFD-A265-131A-9EAE-0B4AA07090D0}|FargoSoulsBossLoadouts.csproj|solutionrelative:content\\fargobossprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FargoBuffProvider.cs",
+              "DocumentMoniker": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\Content\\FargoBuffProvider.cs",
+              "RelativeDocumentMoniker": "Content\\FargoBuffProvider.cs",
+              "ToolTip": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\Content\\FargoBuffProvider.cs",
+              "RelativeToolTip": "Content\\FargoBuffProvider.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:35:20.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FargoBossProvider.cs",
+              "DocumentMoniker": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\Content\\FargoBossProvider.cs",
+              "RelativeDocumentMoniker": "Content\\FargoBossProvider.cs",
+              "ToolTip": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\Content\\FargoBossProvider.cs",
+              "RelativeToolTip": "Content\\FargoBossProvider.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:04:47.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FargoSoulsBossLoadouts.cs",
+              "DocumentMoniker": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\FargoSoulsBossLoadouts.cs",
+              "RelativeDocumentMoniker": "FargoSoulsBossLoadouts.cs",
+              "ToolTip": "C:\\Users\\fale4\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\FargoSoulsBossLoadouts\\FargoSoulsBossLoadouts.cs",
+              "RelativeToolTip": "FargoSoulsBossLoadouts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:03:41.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

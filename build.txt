@@ -1,0 +1,8 @@
+displayName = Dycel's Boss Loadouts (Fargo's Souls)
+author = Dycel
+version = 1.3.0
+buildIgnore = *.csproj, *.sln, obj\*, bin\*, .vs\*
+homepage = https://discord.gg/JYJ5V5Utu4
+modReferences = BossLoadouts, FargowiltasSouls
+sortAfter = BossLoadouts, FargowiltasSouls
+includeSource = false
